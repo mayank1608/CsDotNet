@@ -1,0 +1,31 @@
+Problem Statement: Leap Year Checker
+Problem Description:
+
+Write a program to determine if a given year is a leap year. A leap year is exactly divisible by 4, except for years that are exactly divisible by 100. However, years that are exactly divisible by 400 are also leap years.
+
+Input:
+
+A single integer, ( Y ) (1 ≤ ( Y ) ≤ 10,000), representing the year.
+Output:
+
+Print "YES" if the year is a leap year.
+Print "NO" if the year is not a leap year.
+Example:
+
+Input:
+2000
+
+Output:
+YES
+Input:
+1900
+
+Output:
+NO
+Explanation:
+
+The year 2000 is a leap year because it is divisible by 400.
+The year 1900 is not a leap year because it is divisible by 100 but not by 400.
+Constraints:
+
+The input year will be a positive integer within the range specified.

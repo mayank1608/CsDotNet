@@ -1,0 +1,31 @@
+Problem Statement: Neon Number Energy Efficiency
+
+Problem Description:
+
+In an effort to promote energy efficiency, a city council is evaluating the energy consumption of various streetlights. They have discovered that certain streetlights, identified by neon numbers, are more energy-efficient. A neon number is a number where the sum of the digits of its square is equal to the number itself. For example, 9 is a neon number because (9^2 = 81) and (8 + 1 = 9).
+
+Given a range of integers, your task is to identify all neon numbers within that range. This will help the city council in identifying and promoting the use of energy-efficient streetlights.
+
+Input:
+
+The first line contains an integer (L) (1 ≤ (L) ≤ (10^6)), representing the lower bound of the range.
+The second line contains an integer (R) (1 ≤ (R) ≤ (10^6)), representing the upper bound of the range.
+Output:
+
+Print all neon numbers within the range ([L, R]). Each number should be printed on a new line.
+If there are no neon numbers in the given range, print "No neon numbers found".
+Example:
+
+Input:
+1
+100
+
+Output:
+1
+9
+Explanation:
+
+Within the range 1 to 100, the neon numbers are 1 and 9.
+Note:
+
+Ensure your solution is efficient and can handle the upper limits of the input constraints.

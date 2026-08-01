@@ -1,0 +1,29 @@
+Problem Statement: Maximum and Minimum Finder
+Problem Description:
+
+Write a function that takes an array of integers and returns the maximum and minimum elements in the array.
+
+Input:
+
+A single list of integers ( \text{nums} ) (1 ≤ length of ( \text{nums} ) ≤ 1000), where each integer ( \text{nums}[i] ) (−10^6 ≤ ( \text{nums}[i] ) ≤ 10^6).
+Output:
+
+Print two lines:
+The first line should contain the maximum element in the array.
+The second line should contain the minimum element in the array.
+Example:
+
+Input:
+nums = [3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5]
+
+Output:
+Maximum: 9
+Minimum: 1
+Explanation:
+
+The maximum element in the array is 9.
+The minimum element in the array is 1.
+Constraints:
+
+The input array will have a length within the specified range.
+Each integer in the array will be within the specified range.

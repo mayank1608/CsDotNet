@@ -1,0 +1,25 @@
+Problem Statement: Organizing Library Books
+
+You are working as a librarian and need to organize a section of the library where books are currently unsorted. Each book has a unique ID, and you need to sort these books in ascending order based on their IDs using the Selection Sort algorithm.
+
+Input:
+
+The first line contains an integer ( n ) (1 ≤ ( n ) ≤ 1000), the number of books.
+The second line contains ( n ) integers ( b_1, b_2, ..., b_n ) (1 ≤ ( b_i ) ≤ 10^6), representing the IDs of the books.
+Output:
+
+Output a single line containing the sorted list of book IDs in ascending order.
+Example:
+
+Input:
+
+5
+34 7 23 32 5
+Output:
+
+5 7 23 32 34
+Explanation: The book IDs are sorted in ascending order using the Selection Sort algorithm.
+
+Constraints:
+
+The solution should implement the Selection Sort algorithm to sort the book IDs.

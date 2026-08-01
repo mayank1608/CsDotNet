@@ -1,0 +1,31 @@
+Problem Statement: Sort and Remove Duplicates from Names
+Problem Description:
+
+Write a function that takes an array of names, sorts them in descending order, and removes any duplicates, ignoring case.
+
+Input:
+
+A single list of strings ( {names} ) (1 ≤ length of ( {names} ) ≤ 1000), where each string ( {name} ) (1 ≤ length of ( {name} ) ≤ 100) consists of alphabetic characters.
+Output:
+
+Print the sorted list of names in descending order with duplicates removed, ignoring case.
+Examples:
+
+Input:
+names = ["Alice", "bob", "alice", "Charlie", "Bob"]
+
+Output:
+["Charlie", "bob", "Alice"]
+Input:
+names = ["Zara", "zara", "Mia", "mia", "Liam"]
+
+Output:
+["Zara", "Mia", "Liam"]
+Explanation:
+
+In the first example, the names "Alice" and "bob" are duplicated (ignoring case) and are removed. The remaining names are sorted in descending order.
+In the second example, the names "Zara" and "Mia" are duplicated (ignoring case) and are removed. The remaining names are sorted in descending order.
+Constraints:
+
+The input list will have a length within the specified range.
+Each name in the list will consist of alphabetic characters only.

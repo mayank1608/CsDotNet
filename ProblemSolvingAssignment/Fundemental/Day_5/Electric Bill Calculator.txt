@@ -1,0 +1,44 @@
+Problem Statement: Electric Bill Calculator
+Problem Description:
+
+Write a program to calculate the total electric bill charges based on the number of units consumed. The charges are calculated as follows:
+
+For the first 100 units: ₹1.50 per unit
+For the next 200 units: ₹2.00 per unit
+For units above 300: ₹3.00 per unit
+Input:
+
+A single integer, ( U ) (0 ≤ ( U ) ≤ 10,000), representing the number of units consumed.
+Output:
+
+Print the total electric bill charges rounded to two decimal places.
+Example:
+
+Input:
+150
+
+Output:
+250.00
+
+Input:
+350
+
+Output:
+700.00
+
+Explanation:
+
+For 150 units:
+
+First 100 units: 100 * ₹1.50 = ₹150.00
+Next 50 units: 50 * ₹2.00 = ₹100.00
+Total: ₹150.00 + ₹100.00 = ₹250.00
+For 350 units:
+
+First 100 units: 100 * ₹1.50 = ₹150.00
+Next 200 units: 200 * ₹2.00 = ₹400.00
+Remaining 50 units: 50 * ₹3.00 = ₹150.00
+Total: ₹150.00 + ₹400.00 + ₹150.00 = ₹700.00
+Constraints:
+
+The input units will be a non-negative integer within the range specified.

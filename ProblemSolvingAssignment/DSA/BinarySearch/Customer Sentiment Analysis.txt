@@ -1,0 +1,44 @@
+Problem Statement: Customer Sentiment Analysis
+
+You are working for a company that analyzes customer reviews to determine overall sentiment. Each review is assigned a sentiment score, which can be positive, negative, or neutral. Positive scores are greater than 0, negative scores are less than 0, and a score of 0 is considered neutral. Your task is to determine whether there are more positive or negative reviews.
+
+Input:
+
+The first line contains an integer ( n ) (1 ≤ ( n ) ≤ 2000), the number of reviews.
+The second line contains ( n ) integers ( s_1, s_2, ..., s_n ) (-5 ≤ ( s_i ) ≤ 5), representing the sentiment scores of the reviews, sorted in non-decreasing order.
+Output:
+
+Output a single integer, the maximum count between the number of positive reviews and the number of negative reviews.
+Example:
+
+Input:
+
+6
+-2 -1 -1 1 2 3
+Output:
+
+3
+Explanation: There are 3 positive reviews and 3 negative reviews. The maximum count among them is 3.
+
+Input:
+
+7
+-3 -2 -1 0 0 1 2
+Output:
+
+3
+Explanation: There are 2 positive reviews and 3 negative reviews. The maximum count among them is 3.
+
+Input:
+
+4
+5 4 3 2
+Output:
+
+4
+
+Explanation: There are 4 positive reviews and 0 negative reviews. The maximum count among them is 4.
+
+Constraints:
+
+The solution should be efficient and handle large inputs within the given constraints.

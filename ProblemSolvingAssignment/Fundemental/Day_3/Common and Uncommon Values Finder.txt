@@ -1,0 +1,36 @@
+Problem Statement: Common and Uncommon Values Finder
+Problem Description:
+
+Write a function that takes an array of integers and finds the common and uncommon values. The function should return two arrays: one containing the common values and the other containing the uncommon values.
+
+Input:
+
+A single list of integers ( {arr} ) (1 ≤ length of ( {arr} ) ≤ 1000), where each integer ( {arr}[i] ) (−10^6 ≤ ( {arr}[i] ) ≤ 10^6).
+Output:
+
+Print two lists:
+The first list should contain the common values (values that appear more than once) in ascending order.
+The second list should contain the uncommon values (values that appear only once) in ascending order.
+Examples:
+
+Input:
+arr = [1, 2, 2, 3, 4, 4, 5]
+
+Output:
+Common: [2, 4]
+Uncommon: [1, 3, 5]
+Input:
+arr = [10, 20, 20, 30, 40, 50, 50]
+
+Output:
+Common: [20, 50]
+Uncommon: [10, 30, 40]
+
+Explanation:
+
+In the first example, the common values are [2, 4] and the uncommon values are [1, 3, 5].
+In the second example, the common values are [20, 50] and the uncommon values are [10, 30, 40].
+Constraints:
+
+The input array will have a length within the specified range.
+Each integer in the array will be within the specified range.

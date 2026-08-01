@@ -1,0 +1,37 @@
+Problem Statement: Repetitive Word Remover
+Problem Description:
+
+Write a function that takes a sentence and removes any repetitive words that exist in it. The function should return the modified sentence with no repeated words.
+
+Input:
+
+A single string ( S ) (1 ≤ length of ( S ) ≤ 1000), representing the sentence. The sentence will consist of words separated by spaces.
+Output:
+
+Print the modified sentence with all repetitive words removed.
+Examples:
+
+Input:
+"this is a test test sentence"
+
+Output:
+"this is a test sentence"
+Input:
+"hello world world"
+
+Output:
+"hello world"
+Input:
+"goodbye goodbye goodbye"
+
+Output:
+"goodbye"
+Explanation:
+
+In the first example, the word "test" is repeated and is removed.
+In the second example, the word "world" is repeated and is removed.
+In the third example, the word "goodbye" is repeated and is removed, leaving only one occurrence.
+Constraints:
+
+The input sentence will have a length within the specified range.
+The words in the sentence will be separated by single spaces.

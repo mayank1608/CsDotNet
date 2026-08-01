@@ -1,0 +1,25 @@
+Flow Chart:
+* Design a flow chart for withdrawing cash from ATM.
+* Design a flow chart for transferring money online (netbanking) from one account to another account
+ 
+
+1. Check the input year is leap year or not.
+2. Calculate the total electric bill charges for a given units of consumption.
+3. Calculate the income tax amount to be paid based on CTC and gender.
+4. Design a flow chart for finding the maximum between 2 given integers.
+5. Design a flow chart for finding the maximum between 3 given integers.
+6. Design a flow chart to swap two given integers
+    a) Taking 3rd variable
+    b) Without taking third variable
+7. Design a flowchart  to check the given integer is  ( Randomly pick any 5)
+a) Palindrome
+b) Prime
+c) Armstrong
+d) Neon Number
+e) Krishnamurthy No.
+f) Amicable
+g) Twin Prime
+h) Magic No.
+i) Kaperkar
+j) Happy
+k) Automorphic

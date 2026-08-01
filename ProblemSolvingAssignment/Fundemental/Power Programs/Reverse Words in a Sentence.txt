@@ -1,0 +1,32 @@
+Problem Statement: Reverse Words in a Sentence
+Problem Description:
+
+Write a function that takes a sentence and reverses each word in the sentence while maintaining the original word order.
+
+Input:
+
+A single string ( {str} ) (1 ≤ length of ( {str} ) ≤ 1000), which may contain letters and spaces.
+Output:
+
+Print the modified sentence with each word reversed.
+Examples:
+
+Input:
+str = "hello world from genesis"
+
+Output:
+"olleh dlrow morf siseneg"
+Input:
+str = "reverse each word"
+
+Output:
+"esrever hcae drow"
+
+Explanation:
+
+In the first example, each word in the sentence "hello world from genesis" is reversed, resulting in "olleh dlrow morf siseneg".
+In the second example, each word in the sentence "reverse each word" is reversed, resulting in "esrever hcae drow".
+Constraints:
+
+The input sentence will have a length within the specified range.
+Words in the sentence are separated by single spaces.

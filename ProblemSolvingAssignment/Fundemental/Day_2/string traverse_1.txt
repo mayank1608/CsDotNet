@@ -1,0 +1,14 @@
+Given a string, write a function to traverse the string and perform the following operations:
+
+
+Count and return the number of words in the string.
+Find and return the longest word in the string.
+Convert the string to title case (first letter of each word capitalized) and return it.
+Example:
+
+Input: str = "hello world from genesis"
+
+Output:
+Number of words: 4
+Longest word: genesis
+Title case: Hello World From Genesis

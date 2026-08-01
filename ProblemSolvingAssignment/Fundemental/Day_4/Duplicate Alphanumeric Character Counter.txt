@@ -1,0 +1,43 @@
+Problem Statement: Duplicate Alphanumeric Character Counter
+Problem Description:
+
+Write a function that takes a string and returns the number of alphanumeric characters that occur more than once. The function should be case-sensitive, meaning 'A' and 'a' are considered different characters.
+
+Input:
+
+A single string ( S ) (1 ≤ length of ( S ) ≤ 1000), which may contain letters, digits, and special characters.
+Output:
+
+Print a single integer representing the number of alphanumeric characters that occur more than once in the string.
+Examples:
+
+Input:
+"abcde"
+
+Output:
+0
+Input:
+"aabbcde"
+
+Output:
+2
+Input:
+"Indivisibilities"
+
+Output:
+2
+Input:
+"Aa"
+
+Output:
+0
+Explanation:
+
+In the first example, no alphanumeric characters occur more than once.
+In the second example, the characters 'a' and 'b' occur more than once.
+In the third example, the characters 'i' and 's' occur more than once.
+In the fourth example, 'A' and 'a' are considered different characters, so no duplicates.
+Constraints:
+
+The input string will have a length within the specified range.
+The function should be case-sensitive.

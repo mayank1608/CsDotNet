@@ -1,0 +1,18 @@
+Problem Statement: Detecting Duplicate Emails in a Mailing List
+
+You are managing a mailing list for a newsletter and want to ensure that each email address is unique. You need to be able to add new email addresses, check if an email address is already on the list, and remove email addresses if needed.
+
+Tasks:
+
+Add an Email Address: Add an email address to the mailing list.
+Remove an Email Address: Remove an email address from the mailing list.
+Check if an Email Address is on the List: Check if a specific email address is already on the mailing list.
+Get the Total Number of Unique Email Addresses: Retrieve the total number of unique email addresses on the list.
+Example:
+
+Add "example1@example.com" to the mailing list.
+Add "example2@example.com" to the mailing list.
+Check if "example1@example.com" is on the mailing list (should return true).
+Remove "example1@example.com" from the mailing list.
+Check if "example1@example.com" is on the mailing list (should return false).
+Get the total number of unique email addresses (should return 1, since only "example2@example.com" is on the list).

@@ -1,0 +1,45 @@
+Problem Statement: Income Tax Calculator
+Problem Description
+You are required to write a program that calculates the income tax amount to be paid based on the given Cost to Company (CTC) and the chosen tax regime (old or new). The program should consider various exemptions and deductions as per the Indian tax laws.
+
+Input Format
+An integer CTC representing the Cost to Company.
+A string tax_regime which can be either "old" or "new".
+Output Format
+An integer representing the total income tax to be paid.
+Constraints
+( 1 \leq CTC \leq 10^7 )
+tax_regime will be either "old" or "new".
+Example
+Input:
+
+1000000
+old
+Output:
+
+10000
+Explanation
+For a CTC of ₹10,00,000 under the old tax regime:
+
+Basic Salary: ₹4,00,000
+HRA: ₹2,00,000
+Special Allowances: ₹1,00,000
+Other Income: ₹50,000
+Total Gross Income: ₹7,50,000
+Deductions:
+
+HRA Exemption: ₹1,00,000
+Standard Deduction: ₹50,000
+Section 80C: ₹1,50,000
+Total Deductions: ₹3,00,000
+Taxable Income:
+
+Gross Income - Deductions = ₹7,50,000 - ₹3,00,000 = ₹4,50,000
+Tax Calculation (Old Regime):
+
+Up to ₹2,50,000: Nil
+₹2,50,001 to ₹5,00,000: 5% of ₹2,00,000 = ₹10,000
+Total Tax: ₹10,000
+Note
+The program should handle different CTC values and both tax regimes.
+Consider all applicable deductions and exemptions as per the latest tax laws.

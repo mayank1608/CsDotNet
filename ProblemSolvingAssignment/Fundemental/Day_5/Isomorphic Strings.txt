@@ -1,0 +1,43 @@
+Problem Statement: Isomorphic Strings
+Problem Description:
+
+Given two strings ( s ) and ( t ), determine if they are isomorphic. Two strings ( s ) and ( t ) are isomorphic if the characters in ( s ) can be replaced to get ( t ). All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character, but a character may map to itself.
+
+Input:
+
+Two strings ( s ) and ( t ) (1 ≤ length of ( s ), ( t ) ≤ 1000), consisting of lowercase letters.
+Output:
+
+Print "true" if the strings are isomorphic, otherwise print "false".
+Examples:
+
+Input:
+s = "egg"
+t = "add"
+
+Output:
+true
+
+Input:
+s = "foo"
+t = "bar"
+
+Output:
+false
+
+Input:
+s = "paper"
+t = "title"
+
+Output:
+true
+
+Explanation:
+
+In the first example, the strings ( s ) and ( t ) can be made identical by mapping 'e' to 'a' and 'g' to 'd'.
+In the second example, the strings ( s ) and ( t ) cannot be made identical as 'o' needs to be mapped to both 'a' and 'r'.
+In the third example, the strings ( s ) and ( t ) can be made identical by mapping 'p' to 't', 'a' to 'i', 'p' to 't', 'e' to 'l', and 'r' to 'e'.
+Constraints:
+
+The input strings will have lengths within the specified range.
+The strings will consist of lowercase letters only.

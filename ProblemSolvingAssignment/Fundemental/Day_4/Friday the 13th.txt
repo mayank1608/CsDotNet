@@ -1,0 +1,36 @@
+Problem Statement: Friday the 13th Checker
+
+Problem Description:
+
+In many cultures, Friday the 13th is considered an unlucky day. Given a month and a year, your task is to determine whether that month contains a Friday the 13th. This information can be useful for planning events, superstitions, or simply for curiosity.
+
+Input:
+
+The first line contains an integer ( {month} ) (1 ≤ ( {month} ) ≤ 12), representing the month.
+The second line contains an integer ( {year} ) (1 ≤ ( {year} ) ≤ 9999), representing the year.
+Output:
+
+Print "Yes" if the 13th day of the given month and year is a Friday.
+Print "No" otherwise.
+Example:
+
+Input:
+10
+2023
+
+Output:
+Yes
+Input:
+2
+2024
+
+Output:
+No
+
+Explanation:
+
+In the first example, October 13, 2023, is a Friday.
+In the second example, February 13, 2024, is not a Friday.
+Note:
+
+Ensure your solution efficiently handles the date calculations and can process the upper limits of the input constraints.

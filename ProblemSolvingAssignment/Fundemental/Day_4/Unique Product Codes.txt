@@ -1,0 +1,34 @@
+Problem Statement: Unique Product Codes
+
+Problem Description:
+
+In a retail company, each product is assigned a unique code to avoid confusion and ensure accurate inventory management. An isogram is a word or phrase without a repeating letter. The company wants to ensure that all product codes are isograms to maintain uniqueness and prevent errors.
+
+Given a string representing a product code, your task is to determine if it is an isogram. This will help the company verify the uniqueness of their product codes.
+
+Input:
+
+A single line containing a string (S) (1 ≤ |S| ≤ 100), where |S| is the length of the string. The string may contain letters, digits, and special characters.
+Output:
+
+Print "Yes" if the string is an isogram.
+Print "No" otherwise.
+Example:
+
+Input:
+Product123
+
+Output:
+Yes
+Input:
+Inventory2024
+
+Output:
+No
+Explanation:
+
+In the first example, "Product123" is an isogram because no characters repeat.
+In the second example, "Inventory2024" is not an isogram because the character '2' repeats.
+Note:
+
+Ensure your solution handles all types of characters efficiently and can process the upper limits of the input constraints.

@@ -1,0 +1,32 @@
+Problem Statement: Twin Prime Security
+
+Problem Description:
+
+In a secure communication system, twin primes are used to generate encryption keys. Twin primes are pairs of prime numbers that differ by exactly 2. For example, (11, 13) and (17, 19) are twin primes.
+
+Given a range of integers, your task is to find all twin prime pairs within that range. This will help in generating secure encryption keys for the communication system.
+
+Input:
+
+The first line contains an integer (L) (1 ≤ (L) ≤ (10^6)), representing the lower bound of the range.
+The second line contains an integer (R) (1 ≤ (R) ≤ (10^6)), representing the upper bound of the range.
+Output:
+
+Print all twin prime pairs within the range ([L, R]). Each pair should be printed on a new line in the format "(p1, p2)" where (p1) and (p2) are twin primes.
+If there are no twin prime pairs in the given range, print "No twin primes found".
+Example:
+
+Input:
+10
+30
+
+Output:
+(11, 13)
+(17, 19)
+(29, 31)
+Explanation:
+
+Within the range 10 to 30, the twin prime pairs are (11, 13), (17, 19), and (29, 31).
+Note:
+
+Ensure your solution is efficient and can handle the upper limits of the input constraints.

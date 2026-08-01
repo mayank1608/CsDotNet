@@ -1,0 +1,35 @@
+Problem Statement: Automorphic Numbers in Inventory Management
+
+Problem Description:
+
+In a large warehouse, inventory management is crucial for efficient operations. The warehouse uses a unique system to track items based on automorphic numbers. An automorphic number is a number whose square ends in the same digits as the number itself. For example, 5 and 76 are automorphic numbers because (5^2 = 25) and (76^2 = 5776).
+
+Given a range of integers, your task is to identify all automorphic numbers within that range. These numbers will be used to label and track specific items in the warehouse, ensuring accurate and efficient inventory management.
+
+Input:
+
+The first line contains an integer (L) (1 ≤ (L) ≤ (10^6)), representing the lower bound of the range.
+The second line contains an integer (R) (1 ≤ (R) ≤ (10^6)), representing the upper bound of the range.
+Output:
+
+Print all automorphic numbers within the range ([L, R]). Each number should be printed on a new line.
+If there are no automorphic numbers in the given range, print "No automorphic numbers found".
+Example:
+
+Input:
+1
+100
+
+Output:
+1
+5
+6
+25
+76
+
+Explanation:
+
+Within the range 1 to 100, the automorphic numbers are 1, 5, 6, 25, and 76.
+Note:
+
+Ensure your solution is efficient and can handle the upper limits of the input constraints.

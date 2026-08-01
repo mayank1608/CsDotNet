@@ -1,0 +1,18 @@
+Problem Statement: Tracking Unique Visitors to a Website
+
+You are managing a website and want to keep track of unique visitors. Each visitor is identified by their IP address. You need to ensure that each IP address is counted only once, even if the same visitor accesses the website multiple times.
+
+Tasks:
+
+Add a Visitor: Add a visitor's IP address to the list of unique visitors.
+Check if a Visitor has Visited: Check if a specific IP address has already visited the website.
+Get the Total Number of Unique Visitors: Retrieve the total number of unique visitors.
+Example:
+
+Add IP address "192.168.1.1" to the list.
+Add IP address "192.168.1.2" to the list.
+Check if "192.168.1.1" has visited (should return true).
+Add IP address "192.168.1.1" again (should not increase the count of unique visitors).
+Get the total number of unique visitors (should return 2).
+Using a HashSet is ideal for this problem because it ensures that each IP address is unique and provides efficient operations for adding, checking, and retrieving the count of unique visitors.
+

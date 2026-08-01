@@ -1,0 +1,41 @@
+Problem Statement: Inserting a New Product in Inventory
+
+You are working for an e-commerce company that maintains a sorted list of product IDs in its inventory. Each product ID is unique and the list is sorted in ascending order. When a new product arrives, you need to determine the correct position to insert its ID to maintain the sorted order. If the product ID already exists in the inventory, you should return its current position.
+
+Input:
+
+The first line contains an integer ( n ) (1 ≤ ( n ) ≤ 10^4), the number of product IDs in the inventory.
+The second line contains ( n ) distinct integers ( p_1, p_2, ..., p_n ) (-10^4 ≤ ( p_i ) ≤ 10^4), representing the sorted product IDs.
+The third line contains an integer ( target ) (-10^4 ≤ ( target ) ≤ 10^4), the product ID of the new product.
+Output:
+
+Output a single integer, the index where the new product ID should be inserted to maintain the sorted order. If the product ID already exists, return its current index.
+Example:
+
+Input:
+
+4
+1 3 5 6
+5
+Output:
+
+2
+Input:
+
+4
+1 3 5 6
+2
+Output:
+
+1
+Input:
+
+4
+1 3 5 6
+7
+Output:
+
+4
+Constraints:
+
+The solution should have a runtime complexity of ( O(\log n) ).

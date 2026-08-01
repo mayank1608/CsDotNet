@@ -1,0 +1,34 @@
+Problem Statement: Split Names by Gender Titles
+
+Problem Description:
+
+In a customer management system, names are stored with their respective titles. The titles "Mr.", "Mrs.", and "Ms." indicate the gender of the individuals. Your task is to write a Java program that splits the names into two different string arrays: one for males and one for females. The new arrays should only contain the names without the titles.
+
+Given an array of names with titles, your task is to separate the names into two arrays based on their titles.
+
+Input:
+
+A single line containing a string array ( {names}[] ) where each element is a name with a title. The array can contain up to 100 names.
+Output:
+
+Print two string arrays:
+The first array ( {males}[] ) containing names with the title "Mr.".
+The second array ( {females}[] ) containing names with the titles "Mrs." and "Ms.".
+Example:
+
+Input:
+["Mr.Rohit", "mrs.Priya", "Ms.Kanika", "Mr.Pritam"]
+
+Output:
+["Rohit", "Pritam"]
+["Priya", "Kanika"]
+
+Explanation:
+
+The input array contains names with titles: "Mr.Rohit", "mrs.Priya", "Ms.Kanika", and "Mr.Pritam".
+The names "Rohit" and "Pritam" are extracted from the titles "Mr." and stored in the males array.
+The names "Priya" and "Kanika" are extracted from the titles "Mrs." and "Ms." and stored in the females array.
+Note:
+
+Ensure your solution handles different cases for titles (e.g., "Mr.", "mrs.", "Ms.") efficiently.
+The input array will always contain valid names with titles.

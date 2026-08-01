@@ -1,0 +1,26 @@
+Problem Statement: Missing Product ID
+
+You are working for an e-commerce company that tracks product IDs for inventory management. Each product is assigned a unique ID ranging from 1 to ( n ). However, due to a system error, one product ID is missing from the database. Your task is to identify the missing product ID.
+
+Input:
+
+The first line contains an integer ( n ) (1 ≤ ( n ) ≤ 10^6), the total number of products that should be in the inventory.
+The second line contains ( n-1 ) distinct integers ( p_1, p_2, ..., p_{n-1} ) (1 ≤ ( p_i ) ≤ ( n )), representing the product IDs present in the database.
+Output:
+
+Output a single integer, the missing product ID.
+Example:
+
+Input:
+
+5
+1 2 4 5
+Output:
+
+3
+
+Explanation: In the given example, the product IDs should range from 1 to 5. The IDs present are 1, 2, 4, and 5. Therefore, the missing product ID is 3.
+
+Constraints:
+
+The solution should be efficient and handle large inputs within the given constraints.

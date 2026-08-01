@@ -1,0 +1,21 @@
+Problem Statement: Reverse the Case in Marketing Campaigns
+
+Problem Description:
+
+A marketing team is preparing a series of email campaigns. To make the emails more engaging, they want to apply a unique formatting style by reversing the case of all letters in the subject lines. This means converting all uppercase letters to lowercase and all lowercase letters to uppercase.
+
+Given a string representing the subject line of an email, your task is to reverse the case of each letter in the string. This will help the marketing team quickly apply the desired formatting to their email campaigns.
+
+Input:
+
+A single line containing a string (S) (1 ≤ |S| ≤ 1000), where |S| is the length of the string. The string may contain letters, digits, and special characters.
+Output:
+
+Print the string with the case of each letter reversed.
+Example:
+
+Input:
+Boost Your SALES with Our New Product!
+
+Output:
+bOOST yOUR sales WITH oUR nEW pRODUCT!

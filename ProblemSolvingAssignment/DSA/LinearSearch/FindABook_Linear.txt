@@ -1,0 +1,42 @@
+Problem Statement: Finding a Book in a Library
+Problem Description
+A librarian needs to find a specific book in the library's catalog. The catalog contains a list of books, each with a title and an ISBN number. Your task is to implement a system to find the book using linear search.
+
+Input
+The first line contains an integer ( N ) (1 ≤ ( N ) ≤ 1000), the number of books in the catalog.
+The next ( N ) lines each contain a string ( T_i ) (1 ≤ ( |T_i| ) ≤ 100) and a string ( I_i ) (10 ≤ ( |I_i| ) ≤ 13), where ( T_i ) is the title and ( I_i ) is the ISBN number of the ( i )-th book.
+The last line contains a string ( Q ) (1 ≤ ( |Q| ) ≤ 100), the title or ISBN number of the book to be found.
+Output
+If the book is found, print the 1-based index of the book in the catalog.
+If the book is not found, print "Book not found".
+Example
+Input:
+
+5
+The Great Gatsby 9780743273565
+To Kill a Mockingbird 9780061120084
+1984 9780451524935
+Pride and Prejudice 9781503290563
+The Catcher in the Rye 9780316769488
+9780451524935
+Output:
+
+3
+Input:
+
+3
+Moby Dick 9781503280786
+War and Peace 9780199232765
+Ulysses 9780199535675
+The Odyssey
+Output:
+
+Book not found
+
+Explanation
+In the first example, the book with ISBN 9780451524935 is found at index 3 in the catalog. In the second example, the book with the title "The Odyssey" is not found in the catalog.
+
+Constraints
+The catalog contains at most 1000 books.
+Each book has a unique title and ISBN number.
+The search query ( Q ) can be either a title or an ISBN number.

@@ -1,0 +1,47 @@
+Problem Statement: BODMAS Calculator
+Problem Description:
+
+Write a function that takes a mathematical expression as a string and evaluates it according to the BODMAS rules (Brackets, Orders (i.e., powers and square roots, etc.), Division and Multiplication, Addition and Subtraction).
+
+Input:
+
+A single string ( {expression} ) (1 ≤ length of ( {expression} ) ≤ 1000), representing the mathematical expression. The expression will contain digits, operators (+, -, *, /, ^), and parentheses.
+Output:
+
+Print the result of the evaluated expression as a floating-point number rounded to two decimal places.
+Examples:
+
+Input:
+expression = "3 + 6 * (5 + 4) / 3 - 7"
+
+Output:
+14.00
+
+Input:
+expression = "10 + 2 * 6"
+
+Output:
+22.00
+
+Input:
+expression = "100 * 2 + 12"
+
+Output:
+212.00
+
+Input:
+expression = "100 * (2 + 12) / 14"
+
+Output:
+100.00
+
+Explanation:
+
+In the first example, the expression is evaluated as follows: ( 3 + 6 \times (5 + 4) / 3 - 7 = 3 + 6 \times 9 / 3 - 7 = 3 + 18 - 7 = 14.00 ).
+In the second example, the expression is evaluated as follows: ( 10 + 2 \times 6 = 10 + 12 = 22.00 ).
+In the third example, the expression is evaluated as follows: ( 100 \times 2 + 12 = 200 + 12 = 212.00 ).
+In the fourth example, the expression is evaluated as follows: ( 100 \times (2 + 12) / 14 = 100 \times 14 / 14 = 100.00 ).
+Constraints:
+
+The input expression will have a length within the specified range.
+The expression will be a valid mathematical expression following the BODMAS rules.

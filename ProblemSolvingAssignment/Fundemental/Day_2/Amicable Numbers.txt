@@ -1,0 +1,32 @@
+Problem Statement: Amicable Numbers
+
+Problem Description:
+
+Two numbers are considered amicable if each number is the sum of the proper divisors of the other. Proper divisors of a number are those divisors excluding the number itself.
+
+Given two integers (a) and (b), your task is to determine if they are amicable numbers.
+
+Input:
+
+The first line contains an integer (a) (1 ≤ (a) ≤ (10^6)).
+The second line contains an integer (b) (1 ≤ (b) ≤ (10^6)).
+Output:
+
+Print "Yes" if (a) and (b) are amicable numbers.
+Print "No" otherwise.
+Example:
+
+Input:
+220
+284
+
+Output:
+Yes
+Explanation:
+
+The proper divisors of 220 are 1, 2, 4, 5, 10, 11, 20, 22, 44, 55, and 110. Their sum is 284.
+The proper divisors of 284 are 1, 2, 4, 71, and 142. Their sum is 220.
+Since each number is the sum of the proper divisors of the other, 220 and 284 are amicable numbers.
+Note:
+
+Ensure your solution is efficient and can handle the upper limits of the input constraints.

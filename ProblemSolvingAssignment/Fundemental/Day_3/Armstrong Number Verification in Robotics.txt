@@ -1,0 +1,33 @@
+Problem Statement: Armstrong Number Verification in Robotics
+
+Problem Description:
+
+In a robotics manufacturing plant, quality control is crucial to ensure that each robot meets the required standards. One of the checks involves verifying certain serial numbers that are Armstrong numbers. An Armstrong number (also known as a narcissistic number) is a number that is equal to the sum of its own digits each raised to the power of the number of digits. For example, 153 is an Armstrong number because (1^3 + 5^3 + 3^3 = 153).
+
+Given a range of integers, your task is to identify all Armstrong numbers within that range. This will help the quality control team in verifying the serial numbers of the robots.
+
+Input:
+
+The first line contains an integer (L) (1 ≤ (L) ≤ (10^6)), representing the lower bound of the range.
+The second line contains an integer (R) (1 ≤ (R) ≤ (10^6)), representing the upper bound of the range.
+Output:
+
+Print all Armstrong numbers within the range ([L, R]). Each number should be printed on a new line.
+If there are no Armstrong numbers in the given range, print "No Armstrong numbers found".
+Example:
+
+Input:
+100
+500
+
+Output:
+153
+370
+371
+407
+Explanation:
+
+Within the range 100 to 500, the Armstrong numbers are 153, 370, 371, and 407.
+Note:
+
+Ensure your solution is efficient and can handle the upper limits of the input constraints.

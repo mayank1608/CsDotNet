@@ -1,0 +1,33 @@
+Problem Statement: Merge and Sort Names
+Problem Description:
+
+Write a function that takes two arrays of names, merges them into a single array, and sorts the resulting array in ascending order.
+
+Input:
+
+Two lists of strings ( {names1} ) and ( {names2} ) (1 ≤ length of ( {names1} ), ( {names2} ) ≤ 1000), where each string ( \text{name} ) (1 ≤ length of ( {name} ) ≤ 100) consists of alphabetic characters.
+Output:
+
+Print the merged and sorted list of names in ascending order.
+Examples:
+
+Input:
+names1 = ["Alice", "Charlie", "Bob"]
+names2 = ["David", "Eve", "Alice"]
+
+Output:
+["Alice", "Alice", "Bob", "Charlie", "David", "Eve"]
+Input:
+names1 = ["Zara", "Mia"]
+names2 = ["Liam", "Noah"]
+
+Output:
+["Liam", "Mia", "Noah", "Zara"]
+Explanation:
+
+In the first example, the names from both arrays are merged and sorted in ascending order.
+In the second example, the names from both arrays are merged and sorted in ascending order.
+Constraints:
+
+The input lists will have lengths within the specified range.
+Each name in the lists will consist of alphabetic characters only.
