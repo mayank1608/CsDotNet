@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GoodReadsTest/GoodReadsTest.csproj" />
+  <Project Path="GoodReadsWebApp/GoodReadsWebApp.csproj" />
+</Solution>

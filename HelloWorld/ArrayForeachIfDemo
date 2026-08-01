@@ -1,0 +1,30 @@
+using System;
+
+namespace ArrayForeachIfDemo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Array
+            int[] marks = { 85, 45, 72, 90, 30 };
+
+            Console.WriteLine("Student Results");
+            Console.WriteLine("----------------");
+
+            // foreach loop
+            foreach (int mark in marks)
+            {
+                // if statement
+                if (mark >= 50)
+                {
+                    Console.WriteLine($"Mark: {mark} - Pass");
+                }
+                else
+                {
+                    Console.WriteLine($"Mark: {mark} - Fail");
+                }
+            }
+        }
+    }
+}

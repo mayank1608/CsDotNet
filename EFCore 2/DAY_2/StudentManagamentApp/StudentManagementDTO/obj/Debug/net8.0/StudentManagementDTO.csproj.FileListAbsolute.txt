@@ -1,0 +1,15 @@
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\bin\Debug\net8.0\StudentManagementDTO.dll.config
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\bin\Debug\net8.0\StudentManagementDTO.deps.json
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\bin\Debug\net8.0\StudentManagementDTO.runtimeconfig.json
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\bin\Debug\net8.0\StudentManagementDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\bin\Debug\net8.0\StudentManagementDTO.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\obj\Debug\net8.0\StudentManagementDTO.csproj.AssemblyReference.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\obj\Debug\net8.0\StudentManagementDTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\obj\Debug\net8.0\StudentManagementDTO.AssemblyInfoInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\obj\Debug\net8.0\StudentManagementDTO.AssemblyInfo.cs
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\obj\Debug\net8.0\StudentManagementDTO.csproj.CoreCompileInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\obj\Debug\net8.0\StudentManagementDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\obj\Debug\net8.0\refint\StudentManagementDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\obj\Debug\net8.0\StudentManagementDTO.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\obj\Debug\net8.0\StudentManagementDTO.genruntimeconfig.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDTO\obj\Debug\net8.0\ref\StudentManagementDTO.dll

@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\helpers\\passwordhashhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\helpers\\passwordhashhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommtest\\productbltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|solutionrelative:ecommtest\\productbltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommtest\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|solutionrelative:ecommtest\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommtest\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|solutionrelative:ecommtest\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\ecomdal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\ecomdal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\ecomdal\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\ecomdal\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\ecombl\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\ecombl\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\ecomdal\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\ecomdal\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\ecombl\\iproductbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\ecombl\\iproductbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommtest\\categoryrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|solutionrelative:ecommtest\\categoryrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\ecomdal\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\ecomdal\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommtest\\ecommtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|solutionrelative:ecommtest\\ecommtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommtest\\categorybltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|solutionrelative:ecommtest\\categorybltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\ecombl\\categorybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\ecombl\\categorybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37EE82-CF38-4314-B7D4-B57B812A7D79}|EcommWebAPI\\EcommWebAPI.csproj|solutionrelative:ecommwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|c:\\users\\40019036\\downloads\\40045797_shweta-main-web api-day3-ecommwebapp\\40045797_shweta-main-web api-day3-ecommwebapp\\web api\\day3\\ecommwebapp\\ecommtest\\categorycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E92F36-FDB9-41CB-9A4C-41C234F86E33}|ECommTest\\ECommTest.csproj|solutionrelative:ecommtest\\categorycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordHashHandler.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Helpers\\PasswordHashHandler.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\Helpers\\PasswordHashHandler.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Helpers\\PasswordHashHandler.cs",
+              "RelativeToolTip": "EcommWebAPI\\Helpers\\PasswordHashHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T09:00:30.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EcommWebAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\CategoryRepositoryTest.cs",
+              "RelativeDocumentMoniker": "ECommTest\\CategoryRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\CategoryRepositoryTest.cs",
+              "RelativeToolTip": "ECommTest\\CategoryRepositoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Program.cs",
+              "RelativeToolTip": "EcommWebAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomDAL\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\EcomDAL\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomDAL\\IProductRepository.cs",
+              "RelativeToolTip": "EcommWebAPI\\EcomDAL\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductBLTest.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\ProductBLTest.cs",
+              "RelativeDocumentMoniker": "ECommTest\\ProductBLTest.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\ProductBLTest.cs",
+              "RelativeToolTip": "ECommTest\\ProductBLTest.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAccountController.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Controllers\\UserAccountController.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\Controllers\\UserAccountController.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Controllers\\UserAccountController.cs",
+              "RelativeToolTip": "EcommWebAPI\\Controllers\\UserAccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomDAL\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\EcomDAL\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomDAL\\ProductRepository.cs",
+              "RelativeToolTip": "EcommWebAPI\\EcomDAL\\ProductRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\ProductRepositoryTest.cs",
+              "RelativeDocumentMoniker": "ECommTest\\ProductRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\ProductRepositoryTest.cs",
+              "RelativeToolTip": "ECommTest\\ProductRepositoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductBL.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomBL\\ProductBL.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\EcomBL\\ProductBL.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomBL\\ProductBL.cs",
+              "RelativeToolTip": "EcommWebAPI\\EcomBL\\ProductBL.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "ECommTest\\ProductControllerTest.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\ProductControllerTest.cs",
+              "RelativeToolTip": "ECommTest\\ProductControllerTest.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomDAL\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\EcomDAL\\UserAccountRepository.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomDAL\\UserAccountRepository.cs",
+              "RelativeToolTip": "EcommWebAPI\\EcomDAL\\UserAccountRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\appsettings.json",
+              "RelativeToolTip": "EcommWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-30T08:59:54.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductBL.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomBL\\IProductBL.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\EcomBL\\IProductBL.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomBL\\IProductBL.cs",
+              "RelativeToolTip": "EcommWebAPI\\EcomBL\\IProductBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommWebAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EcommWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EcommWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-30T08:59:54.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ECommTest.csproj",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\ECommTest.csproj",
+              "RelativeDocumentMoniker": "ECommTest\\ECommTest.csproj",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\ECommTest.csproj",
+              "RelativeToolTip": "ECommTest\\ECommTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-30T08:59:54.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomDAL\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\EcomDAL\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomDAL\\CategoryRepository.cs",
+              "RelativeToolTip": "EcommWebAPI\\EcomDAL\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryBLTest.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\CategoryBLTest.cs",
+              "RelativeDocumentMoniker": "ECommTest\\CategoryBLTest.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\CategoryBLTest.cs",
+              "RelativeToolTip": "ECommTest\\CategoryBLTest.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryBL.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomBL\\CategoryBL.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\EcomBL\\CategoryBL.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\EcomBL\\CategoryBL.cs",
+              "RelativeToolTip": "EcommWebAPI\\EcomBL\\CategoryBL.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv10AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\CategoryControllerTest.cs",
+              "RelativeDocumentMoniker": "ECommTest\\CategoryControllerTest.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\ECommTest\\CategoryControllerTest.cs",
+              "RelativeToolTip": "ECommTest\\CategoryControllerTest.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAASwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EcommWebAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\40019036\\Downloads\\40045797_shweta-main-Web API-Day3-EcommWebApp\\40045797_shweta-main-Web API-Day3-EcommWebApp\\Web API\\Day3\\EcommWebApp\\EcommWebAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EcommWebAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADgv2kAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T08:59:54.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

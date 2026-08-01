@@ -1,0 +1,15 @@
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\obj\Debug\net10.0\CarRentalBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\obj\Debug\net10.0\CarRentalBL.AssemblyInfoInputs.cache
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\obj\Debug\net10.0\CarRentalBL.AssemblyInfo.cs
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\obj\Debug\net10.0\CarRentalBL.csproj.CoreCompileInputs.cache
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\bin\Debug\net10.0\CarRentalBL.deps.json
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\bin\Debug\net10.0\CarRentalBL.dll
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\bin\Debug\net10.0\CarRentalBL.pdb
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\obj\Debug\net10.0\CarRentalBL.dll
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\obj\Debug\net10.0\refint\CarRentalBL.dll
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\obj\Debug\net10.0\CarRentalBL.pdb
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\obj\Debug\net10.0\ref\CarRentalBL.dll
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\obj\Debug\net10.0\CarRentalBL.csproj.AssemblyReference.cache
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\bin\Debug\net10.0\CarRentalDTO.dll
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\bin\Debug\net10.0\CarRentalDTO.pdb
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalBL\obj\Debug\net10.0\CarRenta.0C888021.Up2Date

@@ -1,0 +1,85 @@
+{
+    "first_name": "Mayank",
+    "last_name": "Sharma",
+    "email": "mayank@gmail.com",
+    "password": "Password123"
+}
+
+Checksum (SHA512)
+96b7793f0d1f40d8a8a05f9f076d6f4146045429ae2ca17906f109d8747ac34826d9775ffbd0afd9b01bc84bac1a3dba02a6d86af08fe2809276c3e3ffa49098
+
+1. Create solution for project
+mkdir CarRentalSystem
+cd CarRentalSystem
+dotnet new sln -n CarRentalSystem 
+
+2. Create library for CarRentalBL(Business laryer)
+dotnet new classlib -n CarRentalBL
+
+3. Create library for CarRentalDTO(Data transfer object)
+dotnet new classlib -n CarRentalDTO
+
+3. Create console app for CarRentalPL(Presentation layer)
+dotnet new console -n CarRentalPL
+
+4. Add solution for CarRentalBL & CarRentalPL & CarRentalDTO
+dotnet sln add CarRentalBL/CarRentalBL.csproj
+dotnet sln add CarRentalPL/CarRentalPL.csproj
+dotnet sln add CarRentalDTO/CarRentalDTO.csproj
+
+5. Add reference of CarRentalBL in CarRentalPL
+dotnet add CarRentalPL/CarRentalPL.csproj reference CarRentalBL/CarRentalBL.csproj
+
+6. Add reference of CarRentalDTO in CarRentalPL
+dotnet add CarRentalPL/CarRentalPL.csproj reference CarRentalDTO/CarRentalDTO.csproj
+
+7. Add reference of CarRentalDTO in CarRentalBL
+dotnet add CarRentalBL/CarRentalBL.csproj reference CarRentalDTO/CarRentalDTO.csproj
+
+-------------------------------------------------------------
+Package for DTO EF core
+
+Install-Package Microsoft.EntityFrameworkCore -version 8.0.26
+
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -version 8.0.26
+
+Install-Package Microsoft.EntityFrameworkCore.Design -version 8.0.26
+
+Install-Package Microsoft.EntityFrameworkCore.Tools -version 8.0.26
+
+Install-Package System.Configuration.ConfigurationManager -version 8.0.26
+
+
+using vs code:
+dotnet add HotelBookingDTO package Microsoft.EntityFrameworkCore
+dotnet add HotelBookingDTO package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add HotelBookingDTO package Microsoft.EntityFrameworkCore.Design
+dotnet add HotelBookingDTO package Microsoft.EntityFrameworkCore.Tools
+
+dotnet add HotelBookingDTO package System.Configuration.ConfigurationManager
+
+dotnet add ProductCatalog.API package Swashbuckle.AspNetCore
+
+Run a webAPI 
+dotnet run --launch-profile http
+
+
+For console dependency injection/configuration:
+dotnet add HotelBookingPL package Microsoft.Extensions.DependencyInjection
+dotnet add HotelBookingPL package Microsoft.Extensions.Configuration
+dotnet add HotelBookingPL package Microsoft.Extensions.Configuration.Json
+dotnet add HotelBookingPL package Microsoft.EntityFrameworkCore.Design
+
+dotnet ef migrations add InitialCreate --project HotelBookingDTO --startup-project HotelBookingPL
+
+>net install tool
+C#
+
+
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package System.Configuration.ConfigurationManager
+
+

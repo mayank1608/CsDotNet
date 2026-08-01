@@ -1,0 +1,15 @@
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\bin\Debug\net8.0\UniversityDTO.deps.json
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\bin\Debug\net8.0\UniversityDTO.runtimeconfig.json
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\bin\Debug\net8.0\UniversityDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\bin\Debug\net8.0\UniversityDTO.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\obj\Debug\net8.0\UniversityDTO.csproj.AssemblyReference.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\obj\Debug\net8.0\UniversityDTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\obj\Debug\net8.0\UniversityDTO.AssemblyInfoInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\obj\Debug\net8.0\UniversityDTO.AssemblyInfo.cs
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\obj\Debug\net8.0\UniversityDTO.csproj.CoreCompileInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\obj\Debug\net8.0\UniversityDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\obj\Debug\net8.0\refint\UniversityDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\obj\Debug\net8.0\UniversityDTO.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\obj\Debug\net8.0\UniversityDTO.genruntimeconfig.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\obj\Debug\net8.0\ref\UniversityDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\CF_UniversityApp\UniversityDTO\bin\Debug\net8.0\UniversityDTO.dll.config

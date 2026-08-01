@@ -1,0 +1,14 @@
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\bin\Debug\net8.0\DBFirstDTO.deps.json
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\bin\Debug\net8.0\DBFirstDTO.runtimeconfig.json
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\bin\Debug\net8.0\DBFirstDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\bin\Debug\net8.0\DBFirstDTO.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\obj\Debug\net8.0\DBFirstDTO.csproj.AssemblyReference.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\obj\Debug\net8.0\DBFirstDTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\obj\Debug\net8.0\DBFirstDTO.AssemblyInfoInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\obj\Debug\net8.0\DBFirstDTO.AssemblyInfo.cs
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\obj\Debug\net8.0\DBFirstDTO.csproj.CoreCompileInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\obj\Debug\net8.0\DBFirstDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\obj\Debug\net8.0\refint\DBFirstDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\obj\Debug\net8.0\DBFirstDTO.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\obj\Debug\net8.0\DBFirstDTO.genruntimeconfig.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_1\DBFirstDemoApp\DBFirstDTO\obj\Debug\net8.0\ref\DBFirstDTO.dll

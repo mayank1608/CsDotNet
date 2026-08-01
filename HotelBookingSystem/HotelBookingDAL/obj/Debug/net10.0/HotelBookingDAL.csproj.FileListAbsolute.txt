@@ -1,0 +1,16 @@
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\bin\Debug\net10.0\HotelBookingDAL.deps.json
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\bin\Debug\net10.0\HotelBookingDAL.dll
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\bin\Debug\net10.0\HotelBookingDAL.pdb
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\bin\Debug\net10.0\HotelBookingDTO.dll
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\bin\Debug\net10.0\HotelBookingDTO.pdb
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\bin\Debug\net10.0\HotelBookingDTO.dll.config
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\obj\Debug\net10.0\HotelBookingDAL.csproj.AssemblyReference.cache
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\obj\Debug\net10.0\HotelBookingDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\obj\Debug\net10.0\HotelBookingDAL.AssemblyInfoInputs.cache
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\obj\Debug\net10.0\HotelBookingDAL.AssemblyInfo.cs
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\obj\Debug\net10.0\HotelBookingDAL.csproj.CoreCompileInputs.cache
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\obj\Debug\net10.0\HotelBoo.6BF8E0D6.Up2Date
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\obj\Debug\net10.0\HotelBookingDAL.dll
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\obj\Debug\net10.0\refint\HotelBookingDAL.dll
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\obj\Debug\net10.0\HotelBookingDAL.pdb
+C:\Users\40013788\Downloads\BlackBook\CS\HotelBookingSystem\HotelBookingDAL\obj\Debug\net10.0\ref\HotelBookingDAL.dll

@@ -1,0 +1,80 @@
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.deps.json
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.pdb
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.AssemblyInfoInputs.cache
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.AssemblyInfo.cs
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.csproj.CoreCompileInputs.cache
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\refint\UniversityLibraryDAL.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.pdb
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\ref\UniversityLibraryDAL.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.pdb
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.dll.config
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.csproj.AssemblyReference.cache
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\Universi.44BFB420.Up2Date
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.deps.json
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.pdb
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.pdb
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.dll.config
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.csproj.AssemblyReference.cache
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.AssemblyInfoInputs.cache
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.AssemblyInfo.cs
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.csproj.CoreCompileInputs.cache
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\Universi.44BFB420.Up2Date
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\refint\UniversityLibraryDAL.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.pdb
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\ref\UniversityLibraryDAL.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.deps.json
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.pdb
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.pdb
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.dll.config
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.csproj.AssemblyReference.cache
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.AssemblyInfoInputs.cache
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.AssemblyInfo.cs
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.csproj.CoreCompileInputs.cache
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\Universi.44BFB420.Up2Date
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\refint\UniversityLibraryDAL.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.pdb
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\ref\UniversityLibraryDAL.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.deps.json
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.pdb
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.pdb
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.dll.config
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.csproj.AssemblyReference.cache
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.AssemblyInfoInputs.cache
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.AssemblyInfo.cs
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.csproj.CoreCompileInputs.cache
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\Universi.44BFB420.Up2Date
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\refint\UniversityLibraryDAL.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.pdb
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\ref\UniversityLibraryDAL.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.deps.json
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDAL.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\bin\Debug\net8.0\UniversityLibraryDTO.dll.config
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.csproj.AssemblyReference.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.AssemblyInfoInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.AssemblyInfo.cs
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.csproj.CoreCompileInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\Universi.44BFB420.Up2Date
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\refint\UniversityLibraryDAL.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\UniversityLibraryDAL.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\UniversityApp\UniversityLibraryDAL\obj\Debug\net8.0\ref\UniversityLibraryDAL.dll

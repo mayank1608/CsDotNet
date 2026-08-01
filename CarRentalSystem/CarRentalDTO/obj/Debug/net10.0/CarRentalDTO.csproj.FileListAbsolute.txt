@@ -1,0 +1,11 @@
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalDTO\bin\Debug\net10.0\CarRentalDTO.deps.json
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalDTO\bin\Debug\net10.0\CarRentalDTO.dll
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalDTO\bin\Debug\net10.0\CarRentalDTO.pdb
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalDTO\obj\Debug\net10.0\CarRentalDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalDTO\obj\Debug\net10.0\CarRentalDTO.AssemblyInfoInputs.cache
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalDTO\obj\Debug\net10.0\CarRentalDTO.AssemblyInfo.cs
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalDTO\obj\Debug\net10.0\CarRentalDTO.csproj.CoreCompileInputs.cache
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalDTO\obj\Debug\net10.0\CarRentalDTO.dll
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalDTO\obj\Debug\net10.0\refint\CarRentalDTO.dll
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalDTO\obj\Debug\net10.0\CarRentalDTO.pdb
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSystem\CarRentalDTO\obj\Debug\net10.0\ref\CarRentalDTO.dll

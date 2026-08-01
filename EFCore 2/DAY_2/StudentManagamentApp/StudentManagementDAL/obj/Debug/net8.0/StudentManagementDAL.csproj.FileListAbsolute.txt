@@ -1,0 +1,16 @@
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\bin\Debug\net8.0\StudentManagementDAL.deps.json
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\bin\Debug\net8.0\StudentManagementDAL.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\bin\Debug\net8.0\StudentManagementDAL.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\bin\Debug\net8.0\StudentManagementDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\bin\Debug\net8.0\StudentManagementDTO.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\bin\Debug\net8.0\StudentManagementDTO.dll.config
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\obj\Debug\net8.0\StudentManagementDAL.csproj.AssemblyReference.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\obj\Debug\net8.0\StudentManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\obj\Debug\net8.0\StudentManagementDAL.AssemblyInfoInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\obj\Debug\net8.0\StudentManagementDAL.AssemblyInfo.cs
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\obj\Debug\net8.0\StudentManagementDAL.csproj.CoreCompileInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\obj\Debug\net8.0\StudentM.7A16AF33.Up2Date
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\obj\Debug\net8.0\StudentManagementDAL.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\obj\Debug\net8.0\refint\StudentManagementDAL.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\obj\Debug\net8.0\StudentManagementDAL.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_2\StudentManagamentApp\StudentManagementDAL\obj\Debug\net8.0\ref\StudentManagementDAL.dll

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CarRentalSystemPL/1.0.0": {
+        "dependencies": {
+          "CarRentalBusinessLayer": "1.0.0",
+          "CarRentalDTO": "1.0.0"
+        },
+        "runtime": {
+          "CarRentalSystemPL.dll": {}
+        }
+      },
+      "CarRentalBusinessLayer/1.0.0": {
+        "dependencies": {
+          "CarRentalDTO": "1.0.0"
+        },
+        "runtime": {
+          "CarRentalBusinessLayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CarRentalDTO/1.0.0": {
+        "runtime": {
+          "CarRentalDTO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarRentalSystemPL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarRentalBusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarRentalDTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,315 @@
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.csproj.AssemblyReference.cache
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.AssemblyInfoInputs.cache
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.AssemblyInfo.cs
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.exe
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.deps.json
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.runtimeconfig.json
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.pdb
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Azure.Core.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.pdb
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.dll.config
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\Universi.5DB37D5A.Up2Date
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\refint\UniversityLibraryConsoleApp.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.pdb
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.genruntimeconfig.cache
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\ref\UniversityLibraryConsoleApp.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDAL.dll
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDAL.pdb
+D:\OneDrive - LTTS\GEA\EntityFramework\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.dll.config
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.exe
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.dll.config
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.deps.json
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.runtimeconfig.json
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.pdb
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Azure.Core.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDAL.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDAL.pdb
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.pdb
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.dll.config
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.csproj.AssemblyReference.cache
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.AssemblyInfoInputs.cache
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.AssemblyInfo.cs
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.csproj.CoreCompileInputs.cache
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\Universi.5DB37D5A.Up2Date
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\refint\UniversityLibraryConsoleApp.dll
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.pdb
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.genruntimeconfig.cache
+D:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\ref\UniversityLibraryConsoleApp.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.exe
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.dll.config
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.deps.json
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.runtimeconfig.json
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.pdb
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Azure.Core.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Azure.Identity.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Memory.Data.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDAL.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDAL.pdb
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.pdb
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.dll.config
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.csproj.AssemblyReference.cache
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.AssemblyInfoInputs.cache
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.AssemblyInfo.cs
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.csproj.CoreCompileInputs.cache
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\Universi.5DB37D5A.Up2Date
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\refint\UniversityLibraryConsoleApp.dll
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.pdb
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.genruntimeconfig.cache
+E:\dotnet July2024\40042956_fullstackdotnet\EntityFramework\Assignments\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\ref\UniversityLibraryConsoleApp.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.exe
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.dll.config
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.deps.json
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.runtimeconfig.json
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.pdb
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Azure.Core.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Azure.Identity.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDAL.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDAL.pdb
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.pdb
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.dll.config
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.csproj.AssemblyReference.cache
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.AssemblyInfoInputs.cache
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.AssemblyInfo.cs
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.csproj.CoreCompileInputs.cache
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\Universi.5DB37D5A.Up2Date
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\refint\UniversityLibraryConsoleApp.dll
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.pdb
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.genruntimeconfig.cache
+E:\Genesis_Jan2025\40019036_rajat\EFCore\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\ref\UniversityLibraryConsoleApp.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.exe
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.dll.config
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.deps.json
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.runtimeconfig.json
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryConsoleApp.pdb
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDAL.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDAL.pdb
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.pdb
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\bin\Debug\net8.0\UniversityLibraryDTO.dll.config
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.csproj.AssemblyReference.cache
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.AssemblyInfoInputs.cache
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.AssemblyInfo.cs
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\Universi.5DB37D5A.Up2Date
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\refint\UniversityLibraryConsoleApp.dll
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.pdb
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\UniversityLibraryConsoleApp.genruntimeconfig.cache
+C:\Users\40013788\Downloads\EFCore 2\DAY_4\UniversityApp\UniversityLibraryConsoleApp\obj\Debug\net8.0\ref\UniversityLibraryConsoleApp.dll

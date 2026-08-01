@@ -1,0 +1,10 @@
+namespace CarRentalBL
+{
+    public class BusinessLayer
+    {
+        public CarBookingDTO GetCarDetails(Cars CarType, double distance)
+        {
+            return CarType.DisplayBookingDetails(distance);
+        }
+    }
+}

@@ -1,0 +1,4 @@
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSys\CarRentalDTO\obj\Debug\net10.0\CarRentalDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSys\CarRentalDTO\obj\Debug\net10.0\CarRentalDTO.AssemblyInfoInputs.cache
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSys\CarRentalDTO\obj\Debug\net10.0\CarRentalDTO.AssemblyInfo.cs
+C:\Users\40013788\Downloads\BlackBook\CS\CarRentalSys\CarRentalDTO\obj\Debug\net10.0\CarRentalDTO.csproj.CoreCompileInputs.cache

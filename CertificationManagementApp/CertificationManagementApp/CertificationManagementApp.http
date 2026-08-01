@@ -1,0 +1,6 @@
+@CertificationManagementApp_HostAddress = http://localhost:5126
+
+GET {{CertificationManagementApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

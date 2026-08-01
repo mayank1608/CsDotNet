@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A22AEB6F-3821-4D2F-A4B2-522063FF6174}|StudentManagementDTO\\StudentManagementDTO.csproj|e:\\geagit\\40019036_rajat\\efcore\\day_2\\studentmanagamentapp\\studentmanagementdto\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22AEB6F-3821-4D2F-A4B2-522063FF6174}|StudentManagementDTO\\StudentManagementDTO.csproj|solutionrelative:studentmanagementdto\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22AEB6F-3821-4D2F-A4B2-522063FF6174}|StudentManagementDTO\\StudentManagementDTO.csproj|e:\\geagit\\40019036_rajat\\efcore\\day_2\\studentmanagamentapp\\studentmanagementdto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A22AEB6F-3821-4D2F-A4B2-522063FF6174}|StudentManagementDTO\\StudentManagementDTO.csproj|solutionrelative:studentmanagementdto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD27F99E-1C4E-4DA1-9E02-6490DFEDC634}|StudentManagementDAL\\StudentManagementDAL.csproj|e:\\geagit\\40019036_rajat\\efcore\\day_2\\studentmanagamentapp\\studentmanagementdal\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD27F99E-1C4E-4DA1-9E02-6490DFEDC634}|StudentManagementDAL\\StudentManagementDAL.csproj|solutionrelative:studentmanagementdal\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22AEB6F-3821-4D2F-A4B2-522063FF6174}|StudentManagementDTO\\StudentManagementDTO.csproj|e:\\geagit\\40019036_rajat\\efcore\\day_2\\studentmanagamentapp\\studentmanagementdto\\models\\studentmngtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22AEB6F-3821-4D2F-A4B2-522063FF6174}|StudentManagementDTO\\StudentManagementDTO.csproj|solutionrelative:studentmanagementdto\\models\\studentmngtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22AEB6F-3821-4D2F-A4B2-522063FF6174}|StudentManagementDTO\\StudentManagementDTO.csproj|e:\\geagit\\40019036_rajat\\efcore\\day_2\\studentmanagamentapp\\studentmanagementdto\\models\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22AEB6F-3821-4D2F-A4B2-522063FF6174}|StudentManagementDTO\\StudentManagementDTO.csproj|solutionrelative:studentmanagementdto\\models\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8BA828-8643-45E0-A58F-F19CEF0DFD43}|SMAConsoleApp\\SMAConsoleApp.csproj|e:\\geagit\\40019036_rajat\\efcore\\day_2\\studentmanagamentapp\\smaconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8BA828-8643-45E0-A58F-F19CEF0DFD43}|SMAConsoleApp\\SMAConsoleApp.csproj|solutionrelative:smaconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8BA828-8643-45E0-A58F-F19CEF0DFD43}|SMAConsoleApp\\SMAConsoleApp.csproj|e:\\geagit\\40019036_rajat\\efcore\\day_2\\studentmanagamentapp\\smaconsoleapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8E8BA828-8643-45E0-A58F-F19CEF0DFD43}|SMAConsoleApp\\SMAConsoleApp.csproj|solutionrelative:smaconsoleapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8BA828-8643-45E0-A58F-F19CEF0DFD43}|SMAConsoleApp\\SMAConsoleApp.csproj|e:\\geagit\\40019036_rajat\\efcore\\day_2\\studentmanagamentapp\\smaconsoleapp\\smaconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E8BA828-8643-45E0-A58F-F19CEF0DFD43}|SMAConsoleApp\\SMAConsoleApp.csproj|solutionrelative:smaconsoleapp\\smaconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22AEB6F-3821-4D2F-A4B2-522063FF6174}|StudentManagementDTO\\StudentManagementDTO.csproj|e:\\geagit\\40019036_rajat\\efcore\\day_2\\studentmanagamentapp\\studentmanagementdto\\migrations\\20260428101349_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22AEB6F-3821-4D2F-A4B2-522063FF6174}|StudentManagementDTO\\StudentManagementDTO.csproj|solutionrelative:studentmanagementdto\\migrations\\20260428101349_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 338,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDTO\\App.config",
+              "RelativeDocumentMoniker": "StudentManagementDTO\\App.config",
+              "ToolTip": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDTO\\App.config",
+              "RelativeToolTip": "StudentManagementDTO\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-28T12:34:22.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\SMAConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "SMAConsoleApp\\Program.cs",
+              "ToolTip": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\SMAConsoleApp\\Program.cs",
+              "RelativeToolTip": "SMAConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:34:22.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDAL.cs",
+              "DocumentMoniker": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDAL\\StudentDAL.cs",
+              "RelativeDocumentMoniker": "StudentManagementDAL\\StudentDAL.cs",
+              "ToolTip": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDAL\\StudentDAL.cs",
+              "RelativeToolTip": "StudentManagementDAL\\StudentDAL.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:34:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDTO\\Models\\Grades.cs",
+              "RelativeDocumentMoniker": "StudentManagementDTO\\Models\\Grades.cs",
+              "ToolTip": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDTO\\Models\\Grades.cs",
+              "RelativeToolTip": "StudentManagementDTO\\Models\\Grades.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:34:23.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentMngtDbContext.cs",
+              "DocumentMoniker": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDTO\\Models\\StudentMngtDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementDTO\\Models\\StudentMngtDbContext.cs",
+              "ToolTip": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDTO\\Models\\StudentMngtDbContext.cs",
+              "RelativeToolTip": "StudentManagementDTO\\Models\\StudentMngtDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:34:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.cs",
+              "DocumentMoniker": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDTO\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "StudentManagementDTO\\Models\\Students.cs",
+              "ToolTip": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDTO\\Models\\Students.cs",
+              "RelativeToolTip": "StudentManagementDTO\\Models\\Students.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:34:23.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SMAConsoleApp.csproj",
+              "DocumentMoniker": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\SMAConsoleApp\\SMAConsoleApp.csproj",
+              "RelativeDocumentMoniker": "SMAConsoleApp\\SMAConsoleApp.csproj",
+              "ToolTip": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\SMAConsoleApp\\SMAConsoleApp.csproj",
+              "RelativeToolTip": "SMAConsoleApp\\SMAConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T12:34:22.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\SMAConsoleApp\\App.config",
+              "RelativeDocumentMoniker": "SMAConsoleApp\\App.config",
+              "ToolTip": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\SMAConsoleApp\\App.config",
+              "RelativeToolTip": "SMAConsoleApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-28T12:34:22.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260428101349_initialsetup.cs",
+              "DocumentMoniker": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDTO\\Migrations\\20260428101349_initialsetup.cs",
+              "RelativeDocumentMoniker": "StudentManagementDTO\\Migrations\\20260428101349_initialsetup.cs",
+              "ToolTip": "E:\\GEAGit\\40019036_rajat\\EFCore\\DAY_2\\StudentManagamentApp\\StudentManagementDTO\\Migrations\\20260428101349_initialsetup.cs",
+              "RelativeToolTip": "StudentManagementDTO\\Migrations\\20260428101349_initialsetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:34:22.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

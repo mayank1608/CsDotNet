@@ -1,0 +1,6 @@
+@GoodReadsWebApp_HostAddress = http://localhost:5070
+
+GET {{GoodReadsWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E64A2A0C-06FB-4BE5-8F3A-C058D5CDA581}|TaxiDAL\\TaxiDAL.csproj|e:\\dot net\\honeywell_ondemand\\40019036_rajat\\efcore\\dbfirst\\taxidal\\taxirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64A2A0C-06FB-4BE5-8F3A-C058D5CDA581}|TaxiDAL\\TaxiDAL.csproj|solutionrelative:taxidal\\taxirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF96D66-EED7-4251-A211-23889B649AC9}|TaxiPL\\TaxiPL.csproj|e:\\dot net\\honeywell_ondemand\\40019036_rajat\\efcore\\dbfirst\\taxipl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF96D66-EED7-4251-A211-23889B649AC9}|TaxiPL\\TaxiPL.csproj|solutionrelative:taxipl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ADCB77-8046-42A3-97A6-2DCC0ADAA491}|TaxiBL\\TaxiBL.csproj|e:\\dot net\\honeywell_ondemand\\40019036_rajat\\efcore\\dbfirst\\taxibl\\taxiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ADCB77-8046-42A3-97A6-2DCC0ADAA491}|TaxiBL\\TaxiBL.csproj|solutionrelative:taxibl\\taxiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|e:\\dot net\\honeywell_ondemand\\40019036_rajat\\efcore\\dbfirst\\taxidtos\\context\\acmetaxiservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|solutionrelative:taxidtos\\context\\acmetaxiservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|e:\\dot net\\honeywell_ondemand\\40019036_rajat\\efcore\\dbfirst\\taxidtos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|solutionrelative:taxidtos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|e:\\dot net\\honeywell_ondemand\\40019036_rajat\\efcore\\dbfirst\\taxidtos\\models\\allocatetaxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|solutionrelative:taxidtos\\models\\allocatetaxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|e:\\dot net\\honeywell_ondemand\\40019036_rajat\\efcore\\dbfirst\\taxidtos\\models\\cab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|solutionrelative:taxidtos\\models\\cab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|e:\\dot net\\honeywell_ondemand\\40019036_rajat\\efcore\\dbfirst\\taxidtos\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|solutionrelative:taxidtos\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF96D66-EED7-4251-A211-23889B649AC9}|TaxiPL\\TaxiPL.csproj|e:\\dot net\\honeywell_ondemand\\40019036_rajat\\efcore\\dbfirst\\taxipl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FAF96D66-EED7-4251-A211-23889B649AC9}|TaxiPL\\TaxiPL.csproj|solutionrelative:taxipl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|e:\\dot net\\honeywell_ondemand\\40019036_rajat\\efcore\\dbfirst\\taxidtos\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1AAA15-CD4C-42F5-9F15-2419DB06CC13}|TaxiDTOs\\TaxiDTOs.csproj|solutionrelative:taxidtos\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF96D66-EED7-4251-A211-23889B649AC9}|TaxiPL\\TaxiPL.csproj|e:\\dot net\\honeywell_ondemand\\40019036_rajat\\efcore\\dbfirst\\taxipl\\taxipl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAF96D66-EED7-4251-A211-23889B649AC9}|TaxiPL\\TaxiPL.csproj|solutionrelative:taxipl\\taxipl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcmetaxiServiceContext.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\Context\\AcmetaxiServiceContext.cs",
+              "RelativeDocumentMoniker": "TaxiDTOs\\Context\\AcmetaxiServiceContext.cs",
+              "ToolTip": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\Context\\AcmetaxiServiceContext.cs",
+              "RelativeToolTip": "TaxiDTOs\\Context\\AcmetaxiServiceContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:59:53.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.config",
+              "DocumentMoniker": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\app.config",
+              "RelativeDocumentMoniker": "TaxiDTOs\\app.config",
+              "ToolTip": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\app.config",
+              "RelativeToolTip": "TaxiDTOs\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-01T05:02:13.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cab.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\Models\\Cab.cs",
+              "RelativeDocumentMoniker": "TaxiDTOs\\Models\\Cab.cs",
+              "ToolTip": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\Models\\Cab.cs",
+              "RelativeToolTip": "TaxiDTOs\\Models\\Cab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:48:00.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaxiRepository.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDAL\\TaxiRepository.cs",
+              "RelativeDocumentMoniker": "TaxiDAL\\TaxiRepository.cs",
+              "ToolTip": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDAL\\TaxiRepository.cs",
+              "RelativeToolTip": "TaxiDAL\\TaxiRepository.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAqwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:47:30.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiPL\\Program.cs",
+              "RelativeDocumentMoniker": "TaxiPL\\Program.cs",
+              "ToolTip": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiPL\\Program.cs",
+              "RelativeToolTip": "TaxiPL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:47:58.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaxiService.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiBL\\TaxiService.cs",
+              "RelativeDocumentMoniker": "TaxiBL\\TaxiService.cs",
+              "ToolTip": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiBL\\TaxiService.cs",
+              "RelativeToolTip": "TaxiBL\\TaxiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:48:31.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiPL\\App.config",
+              "RelativeDocumentMoniker": "TaxiPL\\App.config",
+              "ToolTip": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiPL\\App.config",
+              "RelativeToolTip": "TaxiPL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-01T05:35:12.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllocateTaxi.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\Models\\AllocateTaxi.cs",
+              "RelativeDocumentMoniker": "TaxiDTOs\\Models\\AllocateTaxi.cs",
+              "ToolTip": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\Models\\AllocateTaxi.cs",
+              "RelativeToolTip": "TaxiDTOs\\Models\\AllocateTaxi.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:32:01.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "TaxiDTOs\\Models\\Booking.cs",
+              "ToolTip": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\Models\\Booking.cs",
+              "RelativeToolTip": "TaxiDTOs\\Models\\Booking.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:47:52.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "TaxiDTOs\\Models\\Driver.cs",
+              "ToolTip": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiDTOs\\Models\\Driver.cs",
+              "RelativeToolTip": "TaxiDTOs\\Models\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:52:53.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaxiPL.csproj",
+              "DocumentMoniker": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiPL\\TaxiPL.csproj",
+              "RelativeDocumentMoniker": "TaxiPL\\TaxiPL.csproj",
+              "ToolTip": "E:\\DOT NET\\Honeywell_Ondemand\\40019036_rajat\\EFCore\\DBFirst\\TaxiPL\\TaxiPL.csproj",
+              "RelativeToolTip": "TaxiPL\\TaxiPL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T07:11:10.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

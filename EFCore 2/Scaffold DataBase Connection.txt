@@ -1,0 +1,6 @@
+Scaffold-DbContext [-Connection] [-Provider] [-OutputDir] [-Context] [-Schemas>] [-Tables>] 
+                    [-DataAnnotations] [-Force] [-Project] [-StartupProject] [<CommonParameters>]
+ 
+ 
+
+Scaffold-DbContext "Server=(localdb)\MSSQLLocalDB;Database=CertificationTrackerDB;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

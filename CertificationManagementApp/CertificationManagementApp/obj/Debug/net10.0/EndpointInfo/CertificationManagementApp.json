@@ -1,0 +1,216 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "CertificationManagementApp",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Certification/GetCertificationDetails": {
+      "get": {
+        "tags": [
+          "Certification"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TblCertification"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TblCertification"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TblCertification"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Certification/GetEmployeeCertificationDetails": {
+      "get": {
+        "tags": [
+          "Certification"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Certification/GetByProvider": {
+      "get": {
+        "tags": [
+          "Certification"
+        ],
+        "parameters": [
+          {
+            "name": "providerName",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "TblCertification": {
+        "type": "object",
+        "properties": {
+          "certificationId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "certificationLevel": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "certificationProvider": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "certificationLevelNavigation": {
+            "$ref": "#/components/schemas/TblCertificationLevel"
+          },
+          "certificationProviderNavigation": {
+            "$ref": "#/components/schemas/TblCertificationProvider"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TblCertificationLevel": {
+        "type": "object",
+        "properties": {
+          "clevelId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "clevel": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TblCertificationProvider": {
+        "type": "object",
+        "properties": {
+          "cproviderId": {
+            "type": "string",
+            "nullable": true
+          },
+          "cprovider": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Certification"
+    },
+    {
+      "name": "WeatherForecast"
+    }
+  ]
+}

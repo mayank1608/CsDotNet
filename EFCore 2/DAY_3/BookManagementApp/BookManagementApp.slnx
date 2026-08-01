@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BookManagementBL/BookManagementBL.csproj" />
+  <Project Path="BookManagementConsoleApp/BookManagementConsoleApp.csproj" />
+  <Project Path="BookManagementDAL/BookManagementDAL.csproj" />
+  <Project Path="BookManagementDTO/BookManagementDTO.csproj" />
+</Solution>

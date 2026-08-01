@@ -1,0 +1,16 @@
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\bin\Debug\net10.0\BookManagementDAL.deps.json
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\bin\Debug\net10.0\BookManagementDAL.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\bin\Debug\net10.0\BookManagementDAL.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\bin\Debug\net10.0\BookManagementDTO.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\bin\Debug\net10.0\BookManagementDTO.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\bin\Debug\net10.0\BookManagementDTO.dll.config
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\obj\Debug\net10.0\BookManagementDAL.csproj.AssemblyReference.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\obj\Debug\net10.0\BookManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\obj\Debug\net10.0\BookManagementDAL.AssemblyInfoInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\obj\Debug\net10.0\BookManagementDAL.AssemblyInfo.cs
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\obj\Debug\net10.0\BookManagementDAL.csproj.CoreCompileInputs.cache
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\obj\Debug\net10.0\BookMana.9E0F4DA9.Up2Date
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\obj\Debug\net10.0\BookManagementDAL.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\obj\Debug\net10.0\refint\BookManagementDAL.dll
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\obj\Debug\net10.0\BookManagementDAL.pdb
+E:\GEAGit\40019036_rajat\EFCore\DAY_3\BookManagementApp\BookManagementDAL\obj\Debug\net10.0\ref\BookManagementDAL.dll

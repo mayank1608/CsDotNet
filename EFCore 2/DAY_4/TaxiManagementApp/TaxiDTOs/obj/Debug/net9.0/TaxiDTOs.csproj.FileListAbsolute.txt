@@ -1,0 +1,45 @@
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.deps.json
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.runtimeconfig.json
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.dll
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.pdb
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.csproj.AssemblyReference.cache
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.AssemblyInfoInputs.cache
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.AssemblyInfo.cs
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.csproj.CoreCompileInputs.cache
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.dll
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\refint\TaxiDTOs.dll
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.pdb
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.genruntimeconfig.cache
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\ref\TaxiDTOs.dll
+D:\Post_DotNet_Bootcamp\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.dll.config
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.dll.config
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.deps.json
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.runtimeconfig.json
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.dll
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.pdb
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.csproj.AssemblyReference.cache
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.AssemblyInfoInputs.cache
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.AssemblyInfo.cs
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.csproj.CoreCompileInputs.cache
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.dll
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\refint\TaxiDTOs.dll
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.pdb
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.genruntimeconfig.cache
+E:\Genesis_Jan2025\40045531_supreet\EFCore\Day 2\TaxiManagement\TaxiDTOs\obj\Debug\net9.0\ref\TaxiDTOs.dll
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.dll.config
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.deps.json
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.runtimeconfig.json
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.dll
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\bin\Debug\net9.0\TaxiDTOs.pdb
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.csproj.AssemblyReference.cache
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.AssemblyInfoInputs.cache
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.AssemblyInfo.cs
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.csproj.CoreCompileInputs.cache
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.dll
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\obj\Debug\net9.0\refint\TaxiDTOs.dll
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.pdb
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\obj\Debug\net9.0\TaxiDTOs.genruntimeconfig.cache
+E:\Honeywell_Ondemand\40019036_rajat\EFCore\DBFirst\TaxiDTOs\obj\Debug\net9.0\ref\TaxiDTOs.dll

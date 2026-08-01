@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBB89F0-FE4B-4968-9A89-CBAF586E5B3A}|UniversityLibraryDAL\\UniversityLibraryDAL.csproj|e:\\dot net\\genesis_jan2025\\40019036_rajat\\efcore\\universityapp\\universitylibrarydal\\universitydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBB89F0-FE4B-4968-9A89-CBAF586E5B3A}|UniversityLibraryDAL\\UniversityLibraryDAL.csproj|solutionrelative:universitylibrarydal\\universitydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|e:\\dot net\\genesis_jan2025\\40019036_rajat\\efcore\\universityapp\\universitylibrarydto\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|solutionrelative:universitylibrarydto\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|e:\\dot net\\genesis_jan2025\\40019036_rajat\\efcore\\universityapp\\universitylibrarydto\\migrations\\20240719051741_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|solutionrelative:universitylibrarydto\\migrations\\20240719051741_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|e:\\dot net\\genesis_jan2025\\40019036_rajat\\efcore\\universityapp\\universitylibrarydto\\models\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|solutionrelative:universitylibrarydto\\models\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5515FD67-1652-44FE-B64B-005CD429FFD0}|UniversityLibraryConsoleApp\\UniversityLibraryConsoleApp.csproj|e:\\dot net\\genesis_jan2025\\40019036_rajat\\efcore\\universityapp\\universitylibraryconsoleapp\\consoleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5515FD67-1652-44FE-B64B-005CD429FFD0}|UniversityLibraryConsoleApp\\UniversityLibraryConsoleApp.csproj|solutionrelative:universitylibraryconsoleapp\\consoleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|e:\\dot net\\genesis_jan2025\\40019036_rajat\\efcore\\universityapp\\universitylibrarydto\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|solutionrelative:universitylibrarydto\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBB89F0-FE4B-4968-9A89-CBAF586E5B3A}|UniversityLibraryDAL\\UniversityLibraryDAL.csproj|e:\\dot net\\genesis_jan2025\\40019036_rajat\\efcore\\universityapp\\universitylibrarydal\\studentdepartmentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBB89F0-FE4B-4968-9A89-CBAF586E5B3A}|UniversityLibraryDAL\\UniversityLibraryDAL.csproj|solutionrelative:universitylibrarydal\\studentdepartmentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|e:\\dot net\\genesis_jan2025\\40019036_rajat\\efcore\\universityapp\\universitylibrarydto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|solutionrelative:universitylibrarydto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|e:\\dot net\\genesis_jan2025\\40019036_rajat\\efcore\\universityapp\\universitylibrarydto\\migrations\\universitydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAE3888-9587-44CC-B83B-37FC0D3703CE}|UniversityLibraryDTO\\UniversityLibraryDTO.csproj|solutionrelative:universitylibrarydto\\migrations\\universitydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5515FD67-1652-44FE-B64B-005CD429FFD0}|UniversityLibraryConsoleApp\\UniversityLibraryConsoleApp.csproj|e:\\dot net\\genesis_jan2025\\40019036_rajat\\efcore\\universityapp\\universitylibraryconsoleapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5515FD67-1652-44FE-B64B-005CD429FFD0}|UniversityLibraryConsoleApp\\UniversityLibraryConsoleApp.csproj|solutionrelative:universitylibraryconsoleapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 338,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversityDbContext.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\Models\\UniversityDbContext.cs",
+              "RelativeDocumentMoniker": "UniversityLibraryDTO\\Models\\UniversityDbContext.cs",
+              "ToolTip": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\Models\\UniversityDbContext.cs",
+              "RelativeToolTip": "UniversityLibraryDTO\\Models\\UniversityDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:15:01.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversityDAL.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDAL\\UniversityDAL.cs",
+              "RelativeDocumentMoniker": "UniversityLibraryDAL\\UniversityDAL.cs",
+              "ToolTip": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDAL\\UniversityDAL.cs",
+              "RelativeToolTip": "UniversityLibraryDAL\\UniversityDAL.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:42:24.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "UniversityLibraryDTO\\Models\\Student.cs",
+              "ToolTip": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\Models\\Student.cs",
+              "RelativeToolTip": "UniversityLibraryDTO\\Models\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:15:17.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleApp.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryConsoleApp\\ConsoleApp.cs",
+              "RelativeDocumentMoniker": "UniversityLibraryConsoleApp\\ConsoleApp.cs",
+              "ToolTip": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryConsoleApp\\ConsoleApp.cs",
+              "RelativeToolTip": "UniversityLibraryConsoleApp\\ConsoleApp.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAiwDoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:43:50.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240719051741_InitialMigration.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\Migrations\\20240719051741_InitialMigration.cs",
+              "RelativeDocumentMoniker": "UniversityLibraryDTO\\Migrations\\20240719051741_InitialMigration.cs",
+              "ToolTip": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\Migrations\\20240719051741_InitialMigration.cs",
+              "RelativeToolTip": "UniversityLibraryDTO\\Migrations\\20240719051741_InitialMigration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:29:05.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "UniversityLibraryDTO\\Models\\Department.cs",
+              "ToolTip": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\Models\\Department.cs",
+              "RelativeToolTip": "UniversityLibraryDTO\\Models\\Department.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:15:19.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDepartmentMap.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDAL\\StudentDepartmentMap.cs",
+              "RelativeDocumentMoniker": "UniversityLibraryDAL\\StudentDepartmentMap.cs",
+              "ToolTip": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDAL\\StudentDepartmentMap.cs",
+              "RelativeToolTip": "UniversityLibraryDAL\\StudentDepartmentMap.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:41:18.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\App.config",
+              "RelativeDocumentMoniker": "UniversityLibraryDTO\\App.config",
+              "ToolTip": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\App.config",
+              "RelativeToolTip": "UniversityLibraryDTO\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-01T09:17:44.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UniversityDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "UniversityLibraryDTO\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryDTO\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "RelativeToolTip": "UniversityLibraryDTO\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:29:17.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryConsoleApp\\App.config",
+              "RelativeDocumentMoniker": "UniversityLibraryConsoleApp\\App.config",
+              "ToolTip": "E:\\DOT NET\\Genesis_Jan2025\\40019036_rajat\\EFCore\\UniversityApp\\UniversityLibraryConsoleApp\\App.config",
+              "RelativeToolTip": "UniversityLibraryConsoleApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-01T09:18:12.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

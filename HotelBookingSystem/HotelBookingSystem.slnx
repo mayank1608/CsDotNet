@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HotelBookingBL/HotelBookingBL.csproj" />
+  <Project Path="HotelBookingDAL/HotelBookingDAL.csproj" />
+  <Project Path="HotelBookingDTO/HotelBookingDTO.csproj" />
+  <Project Path="HotelBookingPL/HotelBookingPL.csproj" />
+</Solution>
