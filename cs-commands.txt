@@ -1,13 +1,3 @@
-{
-    "first_name": "Mayank",
-    "last_name": "Sharma",
-    "email": "mayank@gmail.com",
-    "password": "Password123"
-}
-
-Checksum (SHA512)
-96b7793f0d1f40d8a8a05f9f076d6f4146045429ae2ca17906f109d8747ac34826d9775ffbd0afd9b01bc84bac1a3dba02a6d86af08fe2809276c3e3ffa49098
-
 1. Create solution for project
 mkdir CarRentalSystem
 cd CarRentalSystem
@@ -81,5 +71,44 @@ dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 dotnet add package Microsoft.EntityFrameworkCore.Design
 dotnet add package Microsoft.EntityFrameworkCore.Tools
 dotnet add package System.Configuration.ConfigurationManager
+
+
+Test Package:
+dotnet add package Moq
+
+dotnet add package Microsoft.NET.Test.Sdk
+
+dotnet add package xunit
+
+dotnet add package xunit.runner.visualstudio
+
+
+
+
+
+// auto generate controller using model
+// tool:
+dotnet tool update --global dotnet-aspnet-codegenerator
+// package:
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+//run cmd after above cmds
+dotnet restore
+
+Assuming:
+Model = Product
+DbContext = AppDbContext
+
+dotnet aspnet-codegenerator controller \
+  -name ProductsController \
+  -async \
+  -api \
+  -m Product \
+  -dc AppDbContext \
+  -outDir Controllers
+  
+// Single line
+ dotnet aspnet-codegenerator controller -name ProductsController -async -api -m Product -dc AppDbContext -outDir Controllers
+
+
 
 
